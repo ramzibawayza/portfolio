@@ -4,6 +4,7 @@
 	margin: 0 auto;
 	max-width: 100%;
 	width: 1400px;
+	position: relative;
   }
   
 	@media screen and (min-width: 961px) and (max-width: 1880px) {
@@ -1815,8 +1816,10 @@
 	  }
   
 	  #main > section.one {
-		background-color: #81918E;
-		background-image: url("../../images/machu-picchu.jpg");
+		  position: relative;
+		  background: rgba(0, 0, 100, 0.4);
+		/* background-color: #81918E;
+		background-image: url("../../images/machu-picchu.jpg"); */
 	  }
   
 	  #main > section.two {
@@ -1945,8 +1948,10 @@
 	  }
   
 	  #main > section.one {
-		background-color: #A891FF !important;
-		background-image: url("../../images/machu-picchu.jpg");
+		position: relative;
+		background: rgba(0, 0, 100, 0.4);
+				/* background-color: #A891FF !important;
+		background-image: url("../../images/machu-picchu.jpg"); */
 	  }
   
 	  #main > section.two {
@@ -2151,8 +2156,10 @@
 		}
   
 		#main > section.one {
-		  background-color: #97FF91 !important;
-		  background-image: url("../../images/machu-picchu.jpg");
+			position: relative;
+			background: rgba(0, 0, 100, 0.4);
+		  /* background-color: #97FF91 !important;
+		  background-image: url("../../images/machu-picchu.jpg"); */
 		}
 	
 		#main > section.two {
@@ -2211,8 +2218,10 @@
 		}
   
 		#main > section.one {
-		  background-color: #CFFF87 !important;
-		  background-image: url("../../images/machu-picchu.jpg");
+			position: relative;
+			background: rgba(0, 0, 100, 0.4);
+		  /* background-color: #CFFF87 !important;
+		  background-image: url("../../images/machu-picchu.jpg"); */
 		}
 	
 		#main > section.two {
